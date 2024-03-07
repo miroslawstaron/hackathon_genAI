@@ -24,11 +24,16 @@ If you get into problems with installing the venv and the right python version, 
 
 2. Set up the Python environment -- activate the virtual environment and install the required packages:
 
-```source /some_place_on_your_drive/hackathon_genAI/bin/activate```
+```source /some_place_on_your_drive/hackathon_genAI/bin/activate``` 
+
+Your prompt should change to something that starts with (hackathon_genAI). Then install the required packages:
 
 ```pip install -r requirements.txt```
 
+3. Go to the folder `before` and open up the `start.ipynb` notebook. Follow the instructions in the notebook to prepare your environment for the hackathon.
 
 ## During the hackathon
 
+
 ## After the hackathon
+
