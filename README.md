@@ -33,7 +33,11 @@ Your prompt should change to something that starts with (hackathon_genAI). Then 
 3. Go to the folder `before` and open up the `start.ipynb` notebook. Follow the instructions in the notebook to prepare your environment for the hackathon.
 
 ## During the hackathon
-
+During the hackathon, we will work on the following tasks:
+1. Code similarity -- developing a tool that can help us find security vulnerabilities in the code.
+2. Code completion -- developing a tool that can help us write code faster.
+3. Code summarization -- developing a tool that can help us understand the code better.
+4. Model training -- training an own model which we can use even to solve tasks 1-3. This task requires a more powerful laptop or a GPU. 
 
 ## After the hackathon
 
